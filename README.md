@@ -1,8 +1,5 @@
 # LIBR
 
-[![CI](https://github.com/devlup-labs/libr/actions/workflows/ci.yml/badge.svg)](https://github.com/devlup-labs/libr/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 A Moderated, Censorship-Resilient Social Network Framework
 
 ## Overview
@@ -18,8 +15,6 @@ LIBR strikes a balance by using a replicated DHT (Distributed Hash Table) settin
 **First time contributing to open source?** We're here to help! 
 
 👉 **Start with our [Beginner Guide](docs/BEGINNER_GUIDE.md)** - it has everything you need to get started, explained in simple terms.
-
-🏷️ **Look for `good first issue` labels** in our [Issues page](https://github.com/devlup-labs/libr/issues) - these are perfect for newcomers!
 
 💬 **Questions?** Don't hesitate to ask! Create a new issue or contact our mentors.
 
@@ -42,13 +37,10 @@ LIBR is built with the following components:
 
 ## Getting Started
 
-### Prerequisites
+### Installation
 
-- Go 1.21+
-- Node.js 18+
-- Flutter 3.16+
-- Solidity compiler
-- Ethereum development environment (Hardhat, Truffle, etc.)
+Please see the [Installation Guide](./INSTALL.md) for setup instructions across Windows, Linux, and macOS.
+
 
 
 ## Project Structure
@@ -133,9 +125,6 @@ We welcome contributions from the community! Please check out our [Contributing 
 ## Documentation
 
 For more detailed information about the LIBR protocol and its implementation, check out:
-
-- [Concept Document](https://github.com/devlup-labs/libr/blob/main/docs/libr_soc_concept_doc.pdf)
-- [Project Documentation](https://github.com/devlup-labs/libr/blob/main/docs/libr_project_doc.pdf)
 
 ## License
 
